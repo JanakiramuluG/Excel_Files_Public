@@ -1,0 +1,21 @@
+DeptID,DeptName,Location,Manager
+101,HR,Bangalore,Priya Sharma
+102,Finance,Hyderabad,Anjali Singh
+103,Operations,Mumbai,Surya Prakash
+104,Sales,Delhi,Ravi Teja
+105,Marketing,Chennai,Neha Patil
+106,IT,Pune,John Paul
+107,Admin,Kolkata,Ravi Kumar
+108,Logistics,Jaipur,Mohan Das
+109,Supply Chain,Gurgaon,Arjun Menon
+110,Training,Bangalore,Sneha Kapoor
+111,R&D,Hyderabad,Rajesh Kumar
+112,Procurement,Mumbai,Kavya S
+113,Customer Support,Delhi,Pooja Mehta
+114,Legal,Pune,Kiran Rao
+115,QA,Chennai,Divya Nair
+116,Security,Kolkata,Deepak Jain
+117,Strategy,Ahmedabad,Manish Gupta
+118,Audit,Noida,Harini T
+119,CRM,Vizag,Aishwarya Rao
+120,Inventory,Mysore,Surya Prakash
